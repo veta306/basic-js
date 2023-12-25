@@ -1,4 +1,3 @@
-const { replace } = require("tar");
 const { NotImplementedError } = require("../extensions/index.js");
 
 /**
